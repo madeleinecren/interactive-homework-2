@@ -2,3 +2,16 @@
 
   text-align: center;
 }
+@media (max-width: 700px) {
+
+body {
+	background-color: yellow;
+	text-align: center;
+
+}
+
+img {
+
+	max-width: 50vw;
+	max-height: 50vw;
+}
